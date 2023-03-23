@@ -1,6 +1,16 @@
-# calculator
+# Calculator
 
-This template should help get you started developing with Vue 3 in Vite.
+## Contexto del proyecto
+- Requisitos mínimos Calculadora:
+ 
+- Mobil First
+- La calculadora deberá poder realizar las operaciones básicas: suma, resta, multiplica, división
+- Teclas obligatorias:
+- númericas del 0 al 9
+- suma, resta, multiplicar, división
+- signo "igual"
+- signo "." para la coma
+- CE (para resetear)
 
 ## Recommended IDE Setup
 
